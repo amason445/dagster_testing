@@ -1,0 +1,435 @@
+Symbol,Company Name,Security Price,Volume (90 Day Avg),Market Capitalization,Dividend Yield,Company Headquarters Location,Sector,Industry,Optionable,Price Performance (52 Weeks),Total Return (1 Yr Annualized),Beta (1 Year Annualized),Standard Deviation (1 Yr Annualized),P/E (Price/TTM Earnings),PEG Ratio,EPS Growth (Proj This Yr vs. Last Yr),Institutional Ownership,Institutional Ownership (Last vs. Prior Qtr)
+ABCB,Ameris Bancorp,57.78,0.41835,3940000000.0,1.40351,United States of America,Financials,Banks,Yes ,20.20245,21.67428,1.13774,0.32654,11.1,0.0,0.89641,91.2386,0.4058
+ACNB,ACNB ,41.47,0.03029,436060000.0,3.09478,United States of America,Financials,Banks,No,15.53073,19.31016,1.321868,0.37699,11.1,0.0,14.79893,36.8542,3.2059
+ADKT,Adirondack Trust ,1100.0,1e-05,44000000.0,5.31818,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ALBY,mmunity Capital Bancshares ,22.076,0.00112,28430000.0,3.39735,United States of America,Financials,Banks,No,16.18947,20.96438,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BCTF,Bancorp 34 ,12.0858,0.00354,82710000.0,0.0,United States of America,Financials,Banks,No,46.86391,46.86391,0.296373,0.25296,48.3,0.0,0.0,4.0534,0.0
+AMBZ,American Business Bank/CA,44.35,0.00749,406400000.0,2.23964,United States of America,Financials,Banks,No,21.69528,117.28105,-0.543463,0.20983,9.6,0.0,0.0,8.6732,-1.2966
+HTH,Hilltop Holdings ,30.65,0.34394,1970000000.0,2.37154,United States of America,Financials,Banks,Yes ,-2.44216,-0.29771,0.763401,0.25947,17.6,0.0,-10.68966,57.2436,0.7774
+AROW,Arrow Financial ,26.33,0.03969,440520000.0,4.25047,United States of America,Financials,Banks,Yes ,7.77096,12.26864,1.019308,0.33152,14.9,0.0,49.43503,51.028,3.1698
+ASB,Associated Banc-,22.62,1.61244,3670000000.0,4.14788,United States of America,Financials,Banks,Yes ,4.27833,8.27182,1.232906,0.30823,31.4,0.0,3.40336,86.2769,11.7844
+ASRV,AmeriServ Financial ,2.45,0.0131,40310000.0,4.91803,United States of America,Financials,Banks,Yes ,4.72103,9.72346,0.369671,0.39305,11.7,0.0,0.0,39.6188,15.8101
+ATLO,Ames National ,17.44,0.01846,156970000.0,4.54416,United States of America,Financials,Banks,No,-10.22438,-5.76492,0.843633,0.2627,15.3,0.0,0.0,29.3177,7.0722
+AUBN,Auburn National Bancorporation ,21.31,0.00326,76800000.0,4.91356,United States of America,Financials,Banks,No,15.74513,21.84517,0.395361,0.3009,11.6,0.0,0.0,10.0442,18.0798
+BANF,BancFirst ,109.99,0.10502,3640000000.0,1.67791,United States of America,Financials,Banks,Yes ,27.83866,30.07981,0.900156,0.32677,17.1,0.0,-1.86335,48.7217,-0.8941
+BANR,Banner ,63.89,0.22369,2190000000.0,3.02362,United States of America,Financials,Banks,Yes ,35.19268,39.80722,1.109512,0.33743,13.1,0.0,6.06557,92.322,2.3032
+TFC,Truist Financial ,41.56,7.81997,53550000000.0,5.0707,United States of America,Financials,Banks,Yes ,6.90644,12.13196,1.00195,0.25395,0.0,0.0,9.48509,73.8961,1.2191
+BCBP,BCB Bancorp ,9.91,0.05105,169060000.0,6.49746,United States of America,Financials,Banks,Yes ,-3.90244,1.72548,0.935665,0.35011,10.0,0.0,-8.89764,37.5906,0.1858
+BHB,Bar Harbor Bankshares,29.88,0.0429,456010000.0,4.02414,United States of America,Financials,Banks,No,16.34803,21.00027,1.031207,0.35557,10.5,0.0,2.74648,57.0324,1.8549
+BHLB,Berkshire Hills Bancorp ,26.21,0.4632,1210000000.0,2.75968,United States of America,Financials,Banks,Yes ,17.25843,20.47305,0.82124,0.30159,18.3,0.0,14.61538,86.3694,11.2882
+BHRB,Burke & Herbert Financial Services ,56.23,0.05036,839050000.0,3.92857,United States of America,Financials,Banks,No,2.09663,5.80505,0.802661,0.37887,19.9,0.0,6.63338,0.0,4.2452
+BKSC,Bank of South Carolina ,13.6,0.0024,73830000.0,5.58824,United States of America,Financials,Banks,No,8.8,15.27924,-0.173416,0.21784,11.1,0.0,0.0,0.0,0.0
+BMRC,Bank of Marin Bancorp,22.12,0.05928,352960000.0,4.56621,United States of America,Financials,Banks,No,33.61806,40.26804,1.007299,0.40055,0.0,0.0,0.0,57.6293,4.5174
+BNCC,BNCCORP ,32.9,0.00313,112700000.0,0.0,United States of America,Financials,Banks,No,38.22894,53.826,0.533327,0.29452,14.8,0.0,0.0,0.0,0.0
+BOH,Bank of Hawaii ,69.5,0.41312,2720000000.0,4.08938,United States of America,Financials,Banks,Yes ,12.41176,17.09118,0.51607,0.26818,20.1,0.0,15.08671,78.8362,0.4378
+BOTJ,Bank of the James Financial Group ,14.5,0.00899,67150000.0,2.70636,United States of America,Financials,Banks,No,44.6184,49.18737,0.515177,0.34292,8.3,0.0,0.0,23.062,5.7053
+BOKF,BOK Financial ,103.42,0.13975,6630000000.0,2.21166,United States of America,Financials,Banks,Yes ,13.21107,15.66676,0.997616,0.2687,12.7,0.0,5.81081,34.1517,0.5278
+BPOP,Popular ,93.06,0.53751,6320000000.0,3.07321,United States of America,Financials,Banks,Yes ,4.24485,7.22134,1.015409,0.27249,10.9,0.0,16.4486,89.6098,-1.2099
+BRBS,Blue Ridge Bankshares ,3.3,0.21293,280930000.0,0.0,United States of America,Financials,Banks,No,11.88811,11.88811,1.227651,0.36672,0.0,0.0,0.0,0.0,7.6847
+BRKL,Brookline Bancorp ,10.96,0.61974,969460000.0,4.96324,United States of America,Financials,Banks,Yes ,12.16495,17.97384,0.613562,0.29227,14.2,0.0,42.20779,83.6396,2.9118
+BSRR,Sierra Bancorp,27.91,0.04501,387780000.0,3.60101,United States of America,Financials,Banks,Yes ,43.44008,48.65947,1.238636,0.37685,9.9,0.0,1.77305,57.0562,-3.3559
+BUSE,First Busey ,21.72,0.37002,1940000000.0,4.63607,United States of America,Financials,Banks,Yes ,-8.13458,-4.42729,0.957627,0.29908,11.0,0.0,22.45192,61.2357,6.5022
+BVFL,BV Financial ,15.2,0.03678,161560000.0,0.0,United States of America,Financials,Banks,No,46.77575,46.77575,0.371492,0.17972,13.8,0.0,0.0,35.6795,-2.6698
+CADE,Cadence Bank,30.46,1.1559,5580000000.0,3.61723,United States of America,Financials,Banks,Yes ,5.8844,9.46821,1.291018,0.30672,11.0,0.0,4.08759,85.3653,2.2908
+BYFC,Broadway Financial ,6.76,0.00534,42210000.0,0.0,United States of America,Financials,Banks,No,20.86207,20.86207,1.171098,0.42579,169.0,0.0,0.0,22.4972,7.7692
+CAC,Camden National ,40.31,0.07648,678480000.0,4.17599,United States of America,Financials,Banks,Yes ,25.36616,31.1788,1.065574,0.31191,11.1,0.0,19.47945,67.2707,4.4801
+CASH,Pathward Financial ,75.43,0.19698,1760000000.0,0.27053,United States of America,Financials,Banks,Yes ,47.50599,47.94523,1.059183,0.303,11.0,0.0,12.1148,82.9147,17.7941
+CATY,Cathay General Bancorp,42.89,0.3748,3010000000.0,3.17609,United States of America,Financials,Banks,Yes ,16.01192,19.63742,0.897053,0.29017,10.9,0.0,6.93671,75.5334,2.0544
+CBAN,lony Bankcorp ,16.3,0.06318,284350000.0,2.83426,United States of America,Financials,Banks,No,45.56054,50.33643,1.419461,0.34469,12.0,0.0,21.32353,55.5602,0.5713
+CBKM,nsumers Bancorp ,20.25,0.00182,63420000.0,3.75309,United States of America,Financials,Banks,No,22.8017,27.90779,0.021127,0.14466,0.0,0.0,0.0,0.2145,0.0
+CBSH,mmerce Bancshares ,62.3,0.55993,8330000000.0,1.76991,United States of America,Financials,Banks,Yes ,24.46594,32.66965,0.700704,0.23967,16.1,0.0,1.96382,70.7268,0.6903
+CBU,mmunity Financial System ,57.52,0.22285,3000000000.0,3.23659,United States of America,Financials,Banks,Yes ,20.36841,24.4409,0.994223,0.35206,16.7,0.0,17.12209,73.0247,2.8425
+CCBG,Capital City Bank Group,35.99,0.02594,611220000.0,2.67857,United States of America,Financials,Banks,No,29.90214,33.4555,0.68344,0.29129,11.5,0.0,-1.28205,47.2896,1.977
+CCFN,Muncy lumbia Financial ,42.0,0.00245,148390000.0,4.28571,United States of America,Financials,Banks,No,35.48387,42.32236,0.384472,0.3096,0.0,0.0,0.0,0.0071,0.0
+CCNE,CNB Financial /PA,22.51,0.07359,468690000.0,3.22292,United States of America,Financials,Banks,Yes ,11.1996,14.57509,1.164566,0.33958,9.4,0.0,12.13389,58.5119,1.8907
+CFFI,C&F Financial ,68.4,0.01141,216110000.0,2.75862,United States of America,Financials,Banks,No,36.17803,40.20207,0.989335,0.441,11.4,0.0,0.0,37.827,17.9085
+CFFN,Capitol Federal Financial ,5.64,0.71442,747590000.0,6.03908,United States of America,Financials,Banks,Yes ,-2.25694,3.51343,0.833381,0.30654,14.5,0.0,56.89655,76.8826,2.8239
+CFR,Cullen/Frost Bankers ,124.76,0.4226,7950000000.0,3.07195,United States of America,Financials,Banks,Yes ,10.47602,13.95698,0.797611,0.28068,14.1,0.0,1.31905,85.6911,-1.3009
+CHBH,Croghan Bancshares ,45.85,0.00196,95140000.0,5.05998,United States of America,Financials,Banks,No,1.21413,6.33832,0.0,0.0,0.0,0.0,0.0,0.2726,0.0
+CHCO,City Holding ,118.02,0.06155,1730000000.0,2.69074,United States of America,Financials,Banks,Yes ,13.7764,16.85346,0.67628,0.22908,15.0,0.0,-3.56147,73.6746,2.0374
+CHMG,Chemung Financial ,47.5,0.016,224840000.0,2.7263,United States of America,Financials,Banks,No,12.29371,15.28912,0.404484,0.29592,9.6,0.0,7.82258,42.3414,1.8417
+CIZN,Citizens Holding ,8.01,0.00296,45660000.0,0.98765,United States of America,Financials,Banks,No,3.18471,9.13077,0.080375,0.28758,8.2,0.0,0.0,0.0,0.0
+CMTV,mmunity Bancorp/VT,17.53,0.00237,98840000.0,5.43601,United States of America,Financials,Banks,No,6.64251,12.87636,-0.239594,0.20588,8.0,0.0,0.0,0.0,0.0
+CBFV,CB Financial Services ,28.19,0.01183,145790000.0,3.51247,United States of America,Financials,Banks,No,30.53645,35.57479,0.700203,0.27101,11.8,0.0,-10.98522,41.7825,8.9423
+CNAF,mmercial National Financial ,7.0,0.00334,20030000.0,6.28571,United States of America,Financials,Banks,No,-28.64424,-22.46216,0.014162,0.29661,0.0,0.0,0.0,0.0,0.0
+CNOB,nnectOne Bancorp ,24.16,0.19384,929030000.0,2.97398,United States of America,Financials,Banks,Yes ,27.08661,31.02649,1.004366,0.40752,13.7,0.0,34.0884,70.8755,1.3926
+CNBW,CNB ,76.5,0.0,127070000.0,4.57516,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8638,0.0
+CNND,Canandaigua National ,179.0,0.00017,336340000.0,5.13966,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4527,12.3333
+CNUN,mmunity Bancshares /OH,40.0,0.0,354800000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CARV,Carver Bancorp ,1.43,0.01307,7330000.0,0.0,United States of America,Financials,Banks,No,-7.41935,-7.41935,-0.157901,0.58796,0.0,0.0,0.0,14.1997,1.8007
+COFS,ChoiceOne Financial Services ,28.4,0.03602,426780000.0,3.94644,United States of America,Financials,Banks,No,5.89552,9.81893,0.795499,0.35985,8.7,0.0,4.30769,0.0,9.0078
+COLB,lumbia Banking System ,25.12,1.47682,5190000000.0,5.81818,United States of America,Financials,Banks,Yes ,31.16057,38.98639,0.953723,0.35901,9.9,0.0,-1.18081,92.1658,0.1402
+CPF,Central Pacific Financial .,27.28,0.20593,731860000.0,4.00148,United States of America,Financials,Banks,Yes ,39.26729,44.82301,1.007629,0.2943,13.8,0.0,39.59391,92.8956,0.4302
+CPKF,Chesapeake Financial Shares ,19.99,0.00226,93280000.0,3.24873,United States of America,Financials,Banks,No,11.29944,15.1532,0.256799,0.18016,8.2,0.0,281.02644,3.6713,-0.9866
+SMBK,SmartFinancial ,30.94,0.04787,526370000.0,1.03459,United States of America,Financials,Banks,Yes ,51.39501,53.06888,1.17194,0.32023,14.5,0.0,17.343,56.6226,2.6172
+CTBI,mmunity Trust Bancorp ,50.45,0.05973,917410000.0,3.70955,United States of America,Financials,Banks,Yes ,21.59309,26.30966,0.906189,0.29126,10.9,0.0,9.82646,62.7883,1.0657
+CVBF,CVB Financial ,18.44,0.8105,2570000000.0,4.33839,United States of America,Financials,Banks,Yes ,5.79461,10.47149,1.142103,0.31885,12.8,0.0,-3.65517,75.7306,5.6914
+CWBC,mmunity West Bancshares,18.42,0.05017,350920000.0,2.60586,United States of America,Financials,Banks,No,-7.43719,-5.08434,0.578193,0.29391,40.9,0.0,355.55556,49.6965,0.4746
+CWBK,CW Bancorp,33.97,0.0,101940000.0,2.70827,United States of America,Financials,Banks,No,13.23333,16.39367,0.0,0.0,0.0,0.0,0.0,0.2173,100.0
+CYSM,mmunity Bancorp Santa Maria,12.61,0.0,27680000.0,1.98255,United States of America,Financials,Banks,No,18.96226,21.81919,0.0,0.0,0.0,0.0,0.0,5.4785,36.2019
+CZFS,Citizens Financial Services ,58.97,0.015,274400000.0,3.43392,United States of America,Financials,Banks,No,20.87298,26.59419,1.862508,0.57142,10.1,0.0,9.40171,0.0,8.803
+CZNB,Citizens Bancorp/CA,0.0001,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CZNC,Citizens & Northern ,20.04,0.03317,308700000.0,5.61122,United States of America,Financials,Banks,Yes ,10.15453,16.51776,1.174517,0.34185,11.9,0.0,13.01775,33.0732,2.7677
+CZWI,Citizens mmunity Bancorp ,14.62,0.0237,145150000.0,2.47763,United States of America,Financials,Banks,No,19.19606,21.89484,0.49309,0.22068,10.9,0.0,-2.98507,55.2778,3.7124
+DBIN,Dacotah Banks ,33.15,0.00042,372840000.0,1.79641,United States of America,Financials,Banks,No,1.21212,3.0639,0.0,0.0,13.9,0.0,0.0,0.0,0.0
+DCOM,Dime mmunity Bancshares ,28.64,0.3065,1220000000.0,3.5727,United States of America,Financials,Banks,Yes ,50.56482,56.61714,1.247106,0.37807,52.1,0.0,91.91781,85.0621,19.905
+EBMT,Eagle Bancorp Montana ,16.86,0.02485,133770000.0,3.39893,United States of America,Financials,Banks,No,31.22066,36.3198,0.856259,0.25756,13.6,0.0,23.57143,39.8178,4.0846
+EBTC,Enterprise Bancorp /MA,39.1,0.04038,484530000.0,2.57136,United States of America,Financials,Banks,No,53.7762,58.50607,1.215276,0.39072,12.5,0.0,0.0,33.9847,3.7371
+EFSI,Eagle Financial Services ,32.9,0.01825,175890000.0,3.79205,United States of America,Financials,Banks,No,10.58505,14.78972,0.064954,0.17629,7.6,0.0,160.30534,0.0,0.0
+EGBN,Eagle Bancorp ,21.41,0.29438,632770000.0,3.15036,United States of America,Financials,Banks,Yes ,-7.87159,-2.79177,0.979027,0.41631,0.0,0.0,26.08466,76.6498,2.4954
+ENBP,ENB Financial ,15.88,0.002,89800000.0,4.53401,United States of America,Financials,Banks,No,10.18213,14.81874,-0.229182,0.28054,0.0,0.0,0.0,0.0633,100.0
+EVBN,Evans Bancorp ,38.85,0.02308,215280000.0,3.4135,United States of America,Financials,Banks,No,31.75468,36.23522,1.151834,0.27459,18.0,0.0,22.87037,60.1397,7.0359
+EWBC,East West Bancorp ,90.75,1.01051,12280000000.0,2.70514,United States of America,Financials,Banks,Yes ,13.72901,16.64162,0.969638,0.29245,10.9,0.0,4.87952,90.07,-0.1044
+HWBK,Hawthorn Bancshares ,27.98,0.01172,193960000.0,2.73578,United States of America,Financials,Banks,No,32.53817,36.61156,0.359803,0.34303,10.7,0.0,0.0,27.0197,-1.0654
+FBAK,First National Bank Alaska,235.5,0.00054,743450000.0,6.81576,United States of America,Financials,Banks,No,17.78726,26.93365,0.241907,0.14164,11.1,0.0,0.0,0.1986,31.8658
+FBIP,FNB Bancorp ,70.5,0.0,222850000.0,5.78723,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FBNC,First Bancorp/NC,40.49,0.18158,1660000000.0,2.19014,United States of America,Financials,Banks,Yes ,13.63122,16.24532,0.968226,0.31906,22.0,0.0,18.98917,69.8864,5.3431
+FBP,First Ban (Puerto Rico),19.36,1.12023,3140000000.0,3.75195,United States of America,Financials,Banks,Yes ,10.86077,14.57742,0.929273,0.27904,10.7,0.0,0.71823,60.4466,3.043
+FBPA,Farmers Bank of Appomattox (The),23.26,0.0,25210000.0,4.29923,United States of America,Financials,Banks,No,3.5158,8.0363,0.0,0.0,0.0,0.0,0.0,0.1292,0.0
+FBSI,First Bancshares ,25.0,0.0006,61000000.0,1.6,United States of America,Financials,Banks,No,-7.40741,-7.40741,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FBTT,First Bankers Trustshares ,16.49,0.0017,49420000.0,5.33657,United States of America,Financials,Banks,No,-4.95677,0.34011,0.0,0.0,0.0,0.0,0.0,0.0133,0.0
+FCAP,First Capital ,38.25,0.00363,128190000.0,3.03585,United States of America,Financials,Banks,No,34.3058,39.05869,-0.370167,0.30964,10.7,0.0,0.0,14.9012,15.3485
+FCBC,First mmunity Bancshares ,38.23,0.03629,689100000.0,3.29787,United States of America,Financials,Banks,Yes ,13.56086,22.43708,1.070702,0.33273,13.7,0.0,-8.21429,36.0305,1.2625
+FCCO,First mmunity ,22.7,0.04915,172370000.0,2.67023,United States of America,Financials,Banks,No,30.11002,33.72228,0.992992,0.37447,12.5,0.0,20.44199,58.1241,3.5474
+FCF,First mmonwealth Financial .,15.6,0.6619,1580000000.0,3.34405,United States of America,Financials,Banks,Yes ,14.00293,17.66619,0.85678,0.313,11.2,0.0,0.5036,74.7381,0.1192
+CIVB,Civista Bancshares ,19.85,0.04745,303700000.0,3.46585,United States of America,Financials,Banks,Yes ,31.85484,36.80924,0.932662,0.38346,9.9,0.0,16.86567,54.5003,4.3059
+FDBC,Fidelity D & D Bancorp ,42.48,0.00714,250210000.0,3.7357,United States of America,Financials,Banks,No,-8.9111,-5.95612,0.836197,0.37817,11.8,0.0,0.0,0.0,7.2067
+FDVA,Freedom Financial Holdings ,9.9,0.01492,70940000.0,0.0,United States of America,Financials,Banks,No,0.99085,0.99085,0.310484,0.12858,15.5,0.0,0.0,0.0,0.0
+FFBC,First Financial Bancorp.,25.1,0.4087,2370000000.0,3.86785,United States of America,Financials,Banks,Yes ,13.33333,17.49735,0.882707,0.3205,10.5,0.0,8.83333,80.5511,2.0858
+FFIC,Flushing Financial ,12.78,0.34949,427280000.0,6.95652,United States of America,Financials,Banks,Yes ,0.71656,7.18113,1.266286,0.43053,0.0,0.0,-23.79747,70.5528,27.971
+FFIN,First Financial Bankshares ,35.75,0.49897,5100000000.0,2.01737,United States of America,Financials,Banks,Yes ,10.63236,12.96651,0.965722,0.34579,22.9,0.0,12.82051,70.3101,0.3132
+FGFH,Foresight Financial Group ,32.2,0.00234,115820000.0,2.29814,United States of America,Financials,Banks,No,12.58741,15.26284,-0.005144,0.09647,0.0,0.0,0.0,3.9432,0.0
+FGBI,First Guaranty Bancshares ,7.73,0.01211,96410000.0,0.51881,United States of America,Financials,Banks,No,-24.70703,-22.6152,0.658174,0.45246,9.5,0.0,9.87654,7.8655,18.3632
+FHN,First Horizon ,19.65,5.99195,9840000000.0,3.1348,United States of America,Financials,Banks,Yes ,27.94118,32.53756,1.264703,0.33904,14.4,1.3031,9.54839,84.7009,4.9647
+FISI,Financial Institutions ,25.33,0.15895,498740000.0,4.99195,United States of America,Financials,Banks,Yes ,35.7377,42.88815,1.193662,0.37607,0.0,0.0,-29.87288,76.8243,27.2704
+INBK,First Internet Bancorp,27.21,0.03193,234560000.0,0.88988,United States of America,Financials,Banks,No,-20.11256,-19.46556,1.369652,0.43089,9.4,0.0,43.26389,73.8084,2.6244
+FIZN,First Citizens Bancshares ,69.75,0.00029,1010000000.0,2.00717,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-100.0
+FLIC,First of Long Island  (The),12.29,0.08794,278640000.0,6.82372,United States of America,Financials,Banks,Yes ,14.51163,22.92017,0.843317,0.346,16.4,0.0,66.13333,57.1811,6.1945
+FMAO,Farmers & Merchants Bancorp ,23.96,0.01914,326750000.0,3.71069,United States of America,Financials,Banks,No,11.39654,14.29115,1.351491,0.40799,12.6,0.0,-2.63158,0.0,3.554
+FMBH,First Mid Bancshares ,35.05,0.05939,833370000.0,2.76259,United States of America,Financials,Banks,No,9.24238,12.03381,0.855483,0.27736,10.6,0.0,7.15134,43.9782,2.4473
+FMBL,Farmers & Merchants Bank/CA,5740.0,5e-05,706020000.0,1.95122,United States of America,Financials,Banks,No,19.58333,22.46262,0.131434,0.18112,0.0,0.0,0.0,5.779,0.1138
+FMBM,F & M Bank ,18.84,0.00235,66730000.00000001,5.49974,United States of America,Financials,Banks,No,11.43194,17.46744,-0.054742,0.2729,9.1,0.0,0.0,3.7962,0.0
+FMCB,Farmers & Merchants Bancorp,1000.0,0.00011,697380000.0,1.81681,United States of America,Financials,Banks,No,4.64811,6.51351,0.223924,0.14783,8.3,0.0,0.0,0.5673,27.2844
+FMNB,Farmers National Banc /OH,13.12,0.08804,495010000.0,5.16717,United States of America,Financials,Banks,Yes ,-0.15175,4.85618,0.959039,0.33641,10.8,0.0,12.10938,40.0669,4.527
+FMOO,F & M Bancorp (Ohio),65.6,0.0,320260000.0,2.43902,United States of America,Financials,Banks,No,5.80645,8.6335,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FNB,F.N.B. ,13.65,2.43341,4820000000.0,3.57675,United States of America,Financials,Banks,Yes ,-2.89436,0.27404,1.183853,0.29724,10.7,0.0,1.36691,80.6394,2.5495
+FNLC,First Bancorp /ME (The),24.94,0.02089,278440000.0,5.79011,United States of America,Financials,Banks,Yes ,1.96802,7.86706,0.910786,0.34291,10.3,0.0,0.0,42.4632,1.3521
+FNRN,First Northern mmunity Bancorp,10.18,0.0165,154580000.0,0.0,United States of America,Financials,Banks,No,18.37209,18.37209,-0.230257,0.11908,0.0,0.0,0.0,5.5354,0.0
+BANC,Banc of California ,14.15,2.09956,2250000000.0,2.82885,United States of America,Financials,Banks,Yes ,-3.01783,-0.26841,1.158673,0.29229,27.2,0.0,52.75,97.2832,1.4112
+FRAF,Franklin Financial Services ,35.53,0.01146,156290000.0,3.63636,United States of America,Financials,Banks,No,36.27565,41.61239,-0.191881,0.33461,14.2,0.0,0.0,0.0,3.244
+FRBKQ,Republic First Bancorp ,0.0005,0.0,19160.0,0.0,United States of America,Financials,Banks,No,-94.33962,-94.33962,-3.793273,4.20103,0.0,0.0,0.0,0.1222,0.0
+FRME,First Merchants ,40.11,0.25931,2350000000.0,3.48345,United States of America,Financials,Banks,Yes ,17.72115,22.08959,0.946987,0.3406,11.8,0.0,26.2215,74.275,2.352
+FSDK,First Citizens National Bank,63.6,0.0,0.0,3.77358,United States of America,Financials,Banks,No,-2.75229,-0.03414,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FULT,Fulton Financial ,17.94,1.24149,3240000000.0,4.04267,United States of America,Financials,Banks,Yes ,13.72925,18.18955,1.18457,0.33907,11.4,0.0,0.86486,76.8609,3.5873
+FUNC,First United ,30.06,0.02657,192310000.0,2.96197,United States of America,Financials,Banks,No,30.13579,34.19126,0.739861,0.37522,9.5,0.0,19.04762,43.8084,4.6688
+BFC,Bank First ,101.62,0.01801,1020000000.0,1.77218,United States of America,Financials,Banks,No,22.7432,24.92854,1.184848,0.29747,15.6,0.0,7.24031,32.3905,7.2639
+FXNC,First National /VA,22.12,0.02487,199600000.0,2.79154,United States of America,Financials,Banks,No,37.77916,42.06869,0.468403,0.2606,22.1,0.0,125.5,0.0,38.9383
+GABA,Georgia Bancshares ,0.0001,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GABC,German American Bancorp ,37.69,0.1181,1400000000.0,3.09581,United States of America,Financials,Banks,Yes ,11.41838,14.65689,0.839696,0.29058,13.3,0.0,15.79505,43.4813,2.8036
+GBCI,Glacier Bancorp ,44.51,0.62904,5000000000.0,2.99591,United States of America,Financials,Banks,Yes ,13.41055,16.95341,1.109532,0.32238,26.5,0.0,33.45238,82.3079,1.4925
+GCBC,Greene unty Bancorp ,22.92,0.03526,394180000.0,1.55508,United States of America,Financials,Banks,No,-13.45794,-12.45386,0.948372,0.42079,14.8,0.0,0.0,14.9505,-2.1653
+CFBK,CF Bankshares ,21.81,0.01944,140030000.0,1.27912,United States of America,Financials,Banks,No,12.54499,13.98021,1.233349,0.33326,10.6,0.0,0.0,38.5334,31.8633
+GFCJ,Guaranty Financial ,0.0002,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GLBZ,Glen Burnie Bancorp,5.13,0.00703,14770000.0,7.85855,United States of America,Financials,Banks,No,-5.91497,-1.99664,-0.065379,0.33264,0.0,0.0,0.0,6.9144,24.4441
+GNTY,Guaranty Bancshares ,40.65,0.03985,452380000.0,2.50941,United States of America,Financials,Banks,No,34.12992,37.96045,1.105157,0.32778,14.8,0.0,10.58394,28.8475,9.5839
+GOVB,Gouverneur Bancorp ,12.85,0.00228,14200000.0,0.62257,United States of America,Financials,Banks,No,19.53488,20.38491,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GSBC,Great Southern Bancorp ,55.65,0.0337,647860000.0,2.8643,United States of America,Financials,Banks,Yes ,5.7554,8.74421,0.898751,0.29003,10.6,0.0,-0.89354,44.3013,1.7882
+SFST,Southern First Bankshares ,33.27,0.01743,269920000.0,0.0,United States of America,Financials,Banks,No,8.72859,8.72859,0.99057,0.40287,17.4,0.0,39.79058,79.0655,2.1698
+HACBY,Hachijuni Bank Ltd,14.2,0.0,3280000000.0,2.45429,Japan,Financials,Banks,No,1.42857,2.63981,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HAFC,Hanmi Financial ,22.62,0.19444,680620000.0,4.79148,United States of America,Financials,Banks,Yes ,45.51323,53.05687,0.872252,0.34117,11.0,0.0,20.19512,90.4537,1.1879
+HARL,Harleysville Financial ,22.06,0.00227,80030000.0,5.98368,United States of America,Financials,Banks,No,2.70019,8.70845,0.210367,0.16688,0.0,0.0,0.0,1.4246,20.1679
+HBAN,Huntington Bancshares ,15.21,19.56324,21840000000.0,4.14716,United States of America,Financials,Banks,Yes ,8.88565,13.87148,0.934188,0.27778,12.5,2.28898,14.18033,84.6027,2.5591
+HWC,Hancock Whitney ,52.97,0.62189,4470000000.0,3.47088,United States of America,Financials,Banks,Yes ,15.4754,19.14479,1.076093,0.31831,10.0,0.0,1.98864,86.2745,3.7494
+HBNC,Horizon Bancorp ,15.26,0.16601,665510000.0,4.2328,United States of America,Financials,Banks,Yes ,21.64119,27.47082,0.929374,0.34442,19.1,0.0,4.88235,69.7437,4.0575
+HFBL,Home Federal Bancorp/LA,13.05,0.0031,40730000.0,4.0,United States of America,Financials,Banks,No,5.26316,9.70695,0.428884,0.25884,12.0,0.0,0.0,8.6456,4.0955
+HFWA,Heritage Financial ,24.5,0.24044,825980000.0,3.95062,United States of America,Financials,Banks,Yes ,28.0295,33.48994,0.68753,0.33736,19.8,0.0,62.74194,81.4438,0.1856
+HIFS,Hingham Institution for Savings,241.29,0.01384,514980000.0,1.06676,United States of America,Financials,Banks,No,35.92842,37.44497,1.209441,0.38518,18.8,0.0,0.0,56.2432,7.9618
+HTBK,Heritage mmerce ,9.48,0.36067,581250000.0,5.49683,United States of America,Financials,Banks,Yes ,12.48514,18.69426,0.858396,0.31477,14.4,0.0,20.15152,76.1813,0.3962
+IBCP,Independent Bank ,30.8,0.10496,647020000.0,3.37115,United States of America,Financials,Banks,Yes ,25.30463,29.30273,1.00611,0.35037,9.7,0.0,-1.61392,83.9747,-0.5721
+IBOC,International Bancshares ,62.59,0.3067,3890000000.0,2.23714,United States of America,Financials,Banks,Yes ,12.0702,14.54595,1.130626,0.325,9.5,0.0,0.0,67.3793,1.9176
+ISBA,Isabella Bank ,23.65,0.00205,174920000.0,4.74777,United States of America,Financials,Banks,No,20.85041,27.31827,0.31316,0.17586,12.7,0.0,22.41935,0.0067,100.0
+INDB,Independent Bank .,62.88,0.2795,2660000000.0,3.77721,United States of America,Financials,Banks,Yes ,22.99213,27.87162,0.913211,0.35151,13.9,0.0,17.03297,83.3137,3.4953
+MOFG,MidWestOne Financial Group ,29.57,0.11405,608870000.0,3.31624,United States of America,Financials,Banks,No,28.23323,32.77333,1.055663,0.35131,0.0,0.0,0.0,79.7367,3.343
+JDVB,JD Bancshares ,25.06,0.00163,86010000.0,4.63259,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,6.3,0.0,0.0,1.5413,252.615
+JFBC,Jeffersonville Bancorp,19.05,0.00164,80680000.0,3.14961,United States of America,Financials,Banks,No,8.60889,13.27659,0.471138,0.24562,0.0,0.0,0.0,0.0,0.0
+JBTC,JBT Bancorp ,27.9,0.0,66940000.0,3.92727,United States of America,Financials,Banks,No,16.27907,20.95377,0.375594,0.22216,0.0,0.0,0.0,0.0,0.0
+JUVF,Juniata Valley Financial ,12.25,0.00232,60810000.0,7.26073,United States of America,Financials,Banks,No,-1.86235,5.30775,0.319216,0.29141,9.9,0.0,0.0,0.0,0.0
+KEFI,Keweenaw Financial ,51.0,0.00023,0.0,3.22807,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,9.2,0.0,0.0,0.0,0.0
+KFFB,Kentucky First Federal Bancorp,2.87,0.00487,24100000.0,0.0,United States of America,Financials,Banks,No,-21.47563,-21.47563,-0.107761,0.36521,0.0,0.0,0.0,2.6931,7.5668
+KISB,Kish Bancorp ,32.17,0.00136,85670000.0,4.8,United States of America,Financials,Banks,No,6.55738,11.81887,-0.101719,0.15944,6.5,0.0,0.0,0.0,0.0
+KRNY,Kearny Financial ,6.35,0.33695,404270000.0,7.02875,United States of America,Financials,Banks,Yes ,-0.47695,6.36198,1.269207,0.39095,0.0,0.0,0.0,62.6163,0.9232
+KTHN,Katahdin Bankshares ,24.1799,0.00138,76190000.0,3.38487,United States of America,Financials,Banks,No,6.35556,9.81225,0.0,0.0,9.6,0.0,0.0,0.0,0.0
+LARK,Landmark Bancorp ,27.39,0.01164,157040000.0,3.09278,United States of America,Financials,Banks,No,47.9917,61.49943,0.242824,0.23786,12.1,0.0,0.0,19.5804,5.5685
+LCNB,LCNB ,15.02,0.02168,210670000.0,5.91398,United States of America,Financials,Banks,Yes ,-1.19522,4.46502,0.568224,0.32165,15.5,0.0,64.43299,37.4391,5.7982
+LKFN,Lakeland Financial ,59.53,0.13823,1540000000.0,3.38123,United States of America,Financials,Banks,Yes ,-8.3798,-5.66585,0.791653,0.29815,16.4,0.0,2.86501,83.1573,3.0405
+MBCN,Middlefield Banc ,27.25,0.00909,217620000.0,3.1192,United States of America,Financials,Banks,No,14.35244,17.93183,1.342779,0.47357,14.2,0.0,0.9375,33.618,2.5296
+SOHI,Sortis Holdings ,0.0002,0.0,8230.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0437,0.0
+MPB,Mid Penn Bancorp ,26.16,0.06953,497840000.0,3.11042,United States of America,Financials,Banks,No,28.34331,32.20577,0.923063,0.29783,9.0,0.0,-2.06897,50.7789,32.8915
+MBVA,Millennium Bankshares ,0.0001,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MBWM,Mercantile Bank ,43.8,0.07031,705720000.0,3.40386,United States of America,Financials,Banks,Yes ,16.07048,19.91855,1.204758,0.37932,8.9,0.0,-2.00811,63.2821,3.2285
+MNAT,Marquette National ,28.25,0.0,123980000.0,4.38163,United States of America,Financials,Banks,No,3.85321,9.25447,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MTB,M&T Bank ,179.71,1.29025,28980000000.0,3.06175,United States of America,Financials,Banks,Yes ,23.14621,26.89344,0.754832,0.26711,12.3,2.64953,11.02459,87.5781,-0.0919
+MVBF,MVB Financial ,17.29,0.03497,223370000.0,3.94203,United States of America,Financials,Banks,No,-21.9457,-19.25725,1.287871,0.41633,11.3,0.0,-21.37255,0.0,8.6065
+MVLY,Mission Valley Bancorp,15.34,0.0,51070000.0,0.0,United States of America,Financials,Banks,No,10.75812,10.75812,0.0,0.0,0.0,0.0,0.0,5.1927,-7.9474
+HOPE,Hope Bancorp ,10.51,0.74766,1250000000.0,5.39499,United States of America,Financials,Banks,Yes ,-6.82226,-2.41533,1.006327,0.30592,12.8,0.0,13.29412,89.5125,0.9639
+NASB,NASB Financial ,36.6,0.00119,264690000.0,2.73224,United States of America,Financials,Banks,No,13.31269,16.48132,0.205971,0.0,9.4,0.0,0.0,0.0,0.0
+NBN,Northeast Bank,91.44,0.05045,771930000.0,0.04401,United States of America,Financials,Banks,No,65.04449,65.13175,1.279808,0.37175,10.6,0.0,36.01583,53.4259,3.2636
+NBTB,NBT Bancorp ,42.9,0.22853,2020000000.0,3.1865,United States of America,Financials,Banks,Yes ,18.55556,22.08629,0.945979,0.3093,14.4,0.0,17.17687,66.4608,8.3422
+NKSH,National Bankshares ,26.5,0.01114,165500000.0,5.99769,United States of America,Financials,Banks,No,-24.82659,-21.1102,1.066895,0.30384,21.4,0.0,89.97575,31.6081,5.7549
+NRIM,Northrim Ban ,74.6,0.04252,408550000.0,3.45946,United States of America,Financials,Banks,No,51.67042,57.29816,1.406172,0.43009,11.3,0.0,21.74242,69.057,0.7609
+NWFL,Norwood Financial .,24.32,0.01597,227500000.0,5.04886,United States of America,Financials,Banks,No,-13.85479,-9.8559,0.706908,0.31756,0.0,0.0,29.79275,38.2654,60.0425
+FNWD,Finward Bancorp,29.1,0.00415,125870000.0,1.64892,United States of America,Financials,Banks,No,17.6637,19.76897,-0.096279,0.206,10.2,0.0,-60.91549,0.0,15.0241
+NWBI,Northwest Bancshares ,12.17,0.66031,1540000000.0,6.639,United States of America,Financials,Banks,Yes ,5.70175,12.44734,0.721921,0.26103,15.4,0.0,2.69231,67.714,2.5375
+FLG,Flagstar Financial ,11.45,6.08262,4770000000.0,0.34752,United States of America,Financials,Banks,No,19.52233,20.22301,1.558201,0.54935,0.0,0.0,86.8797,85.9258,34.3208
+OCFC,OceanFirst Financial .,17.18,0.2926,995470000.0,4.70588,United States of America,Financials,Banks,Yes ,7.52688,12.68469,1.179,0.32717,10.4,0.0,-2.625,73.2584,2.5058
+OFG,OFG Bancorp,40.14,0.38587,1810000000.0,3.00677,United States of America,Financials,Banks,Yes ,11.16992,14.05192,0.800866,0.28777,9.5,0.0,-3.90071,94.0533,-1.0636
+ONB,Old National Bancorp,21.35,2.93488,6700000000.0,2.66413,United States of America,Financials,Banks,Yes ,26.24625,29.81795,1.283949,0.3255,12.7,0.0,11.55914,95.2825,15.7629
+OPHC,OptimumBank Holdings ,4.03,0.04842,47120000.0,0.0,United States of America,Financials,Banks,No,-2.90557,-2.90557,0.790263,0.2785,3.0,0.0,-45.86466,0.0,6.2042
+OPOF,Old Point Financial ,29.91,0.00685,152860000.0,1.86978,United States of America,Financials,Banks,No,74.12791,79.00551,0.279867,0.31896,15.9,0.0,0.0,32.4875,0.8479
+OBT,Orange unty Bancorp ,23.65,0.02507,271590000.0,2.17482,United States of America,Financials,Banks,No,0.16757,2.00786,1.211212,0.42031,9.6,0.0,17.44939,0.0,1.4796
+ORRF,Orrstown Financial Services ,29.76,0.12391,578910000.0,3.50404,United States of America,Financials,Banks,No,13.58592,16.87171,0.730993,0.27126,20.1,0.0,7.12766,55.0228,2.6425
+OSBC,Old Second Bancorp ,16.79,0.23325,748230000.0,1.44491,United States of America,Financials,Banks,Yes ,22.58303,24.22382,0.648006,0.28298,9.0,0.0,-0.85561,71.4141,1.4185
+OVBC,Ohio Valley Banc .,28.51,0.00951,129510000.0,3.20116,United States of America,Financials,Banks,No,14.97281,19.34785,0.018085,0.34532,12.3,0.0,0.0,16.0189,4.7187
+OVLY,Oak Valley Bancorp,25.7,0.01306,208420000.0,2.40577,United States of America,Financials,Banks,No,3.48548,5.55631,0.756737,0.31109,8.5,0.0,0.0,32.5041,1.7166
+OZK,Bank OZK,43.75,1.19647,4930000000.0,3.96496,United States of America,Financials,Banks,Yes ,-3.34225,0.36111,1.21338,0.35621,7.1,0.0,-3.50163,92.3366,0.0713
+PABN,Panamerican Bancorp-Old,1e-05,0.0,4570.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PBHC,Pathfinder Bancorp ,16.0,0.0056,80270000.0,2.37389,United States of America,Financials,Banks,No,38.11475,41.93626,0.370351,0.31596,26.7,0.0,0.0,21.4113,2.5808
+PEBK,Peoples Bancorp of North Carolina .,27.26,0.01338,147120000.0,2.96846,United States of America,Financials,Banks,No,-3.54331,-0.42515,0.675077,0.3082,9.1,0.0,0.0,41.2546,4.6765
+PEBO,Peoples Bancorp ,29.82,0.13047,1060000000.0,5.39811,United States of America,Financials,Banks,Yes ,3.20334,8.62673,1.076251,0.27712,9.0,0.0,-3.05136,57.8245,2.7231
+PFBC,Preferred Bank of Los Angeles,84.15,0.08418,1110000000.0,3.57867,United States of America,Financials,Banks,Yes ,10.15769,14.20353,0.941223,0.29995,8.7,0.0,0.53942,83.5199,3.5805
+PFBX,Peoples Financial /MS,19.4,0.00119,88880000.0,1.87013,United States of America,Financials,Banks,No,24.19355,27.39261,0.0,0.0,4.2,0.0,0.0,1.0498,0.0
+PFIS,Penseco Financial Services ,44.61,0.02786,445730000.0,5.53812,United States of America,Financials,Banks,No,8.1999,13.36207,1.14578,0.36827,45.1,0.0,43.50133,30.5232,4.6466
+PFLC,Pacific Financial ,10.87,0.0071,112660000.0,5.13761,United States of America,Financials,Banks,No,7.07269,12.67668,0.187865,0.14496,11.8,0.0,0.0,0.2972,-7.0247
+PFS,Provident Financial Services ,17.6,0.59985,2240000000.0,5.58464,United States of America,Financials,Banks,Yes ,18.47002,24.86849,1.068053,0.33684,16.8,0.0,96.38095,67.5204,0.7607
+PGC,Peapack-Gladstone Financial ,29.25,0.09467,511340000.0,0.68823,United States of America,Financials,Banks,Yes ,19.63771,20.46867,1.03872,0.37543,15.8,0.0,47.89189,78.0787,5.8821
+RNST,Renasant ,33.9,0.66578,2170000000.0,2.5814,United States of America,Financials,Banks,Yes ,10.75374,13.73637,0.9204,0.29485,10.4,0.0,0.83333,92.3588,3.8001
+PKBK,Parke Bancorp ,19.08,0.02668,222770000.0,3.82775,United States of America,Financials,Banks,No,10.97345,15.47541,0.753818,0.32776,8.4,0.0,0.0,46.7842,-0.5744
+PLBC,Plumas Bancorp,43.38,0.01026,257460000.0,2.75926,United States of America,Financials,Banks,No,20.17132,23.44095,0.849853,0.36331,9.0,0.0,-10.39583,43.4892,6.1385
+PNBK,Patriot National Bancorp ,1.33,0.93736,77910000.0,0.0,United States of America,Financials,Banks,No,-67.56032,-67.56032,1.44728,0.79553,0.0,0.0,0.0,20.3301,-20.8359
+PNFP,Pinnacle Financial Partners ,106.87,0.48127,8100000000.0,0.91647,United States of America,Financials,Banks,Yes ,25.35902,26.5144,1.321755,0.34473,17.9,0.0,13.17852,89.578,2.5169
+PPBI,Pacific Premier Bancorp ,21.7,0.58866,2080000000.0,6.11677,United States of America,Financials,Banks,Yes ,-8.44294,-3.44057,1.117315,0.3502,13.2,0.0,-20.78788,94.7191,0.2795
+PPBN,Pinnacle Bankshares ,31.79,0.0018,70750000.0,3.13087,United States of America,Financials,Banks,No,16.14545,20.06222,0.0,0.0,7.7,0.0,0.0,3.6038,0.0
+PRK,Park National ,152.57,0.05681,2460000000.0,2.80951,United States of America,Financials,Banks,Yes ,16.1128,19.43575,1.088758,0.32327,16.4,0.0,-3.61588,55.5236,3.2265
+PROV,Provident Financial Holdings ,14.55,0.00687,97090000.0,3.85941,United States of America,Financials,Banks,No,6.61278,10.87051,0.263723,0.17864,16.0,0.0,2.83019,47.9514,-1.259
+PB,Prosperity Bancshares ,71.53,0.52417,6730000000.0,3.28286,United States of America,Financials,Banks,Yes ,9.78717,13.46639,0.71803,0.24706,14.2,0.0,15.36634,82.8533,1.472
+PSBQ,PSB Holdings /WI,25.7,0.00371,104330000.0,2.51079,United States of America,Financials,Banks,No,19.95294,23.34344,0.0,0.0,10.8,0.0,0.0,6.8165,6.83
+PWOD,Penns Woods Bancorp ,28.21,0.0191,213770000.0,4.5584,United States of America,Financials,Banks,No,48.88653,56.74862,0.610579,0.28475,12.0,0.0,0.0,29.529,24.9192
+QCRH,QCR Holdings ,71.9,0.08046,1210000000.0,0.33422,United States of America,Financials,Banks,Yes ,21.46482,21.87486,0.87669,0.31136,10.7,0.0,-3.68421,73.707,1.722
+QNBC,QNB ,35.25,0.0015,130460000.0,4.31206,United States of America,Financials,Banks,No,47.18163,54.71476,-0.199735,0.0,0.0,0.0,0.0,0.0,0.0
+RBCAA,Republic Bancorp ,64.18,0.02213,1240000000.0,2.8298,United States of America,Financials,Banks,Yes ,29.7842,33.26857,1.044532,0.33882,12.5,0.0,6.71785,27.9508,2.3694
+SBFG,SB Financial Group ,20.61,0.02155,135600000.0,2.79518,United States of America,Financials,Banks,No,48.74552,53.67982,0.193063,0.31687,12.0,0.0,16.27907,53.4767,3.6393
+RF,Regions Financial ,22.02,8.32105,19530000000.0,4.63607,United States of America,Financials,Banks,Yes ,4.91245,9.47422,0.989848,0.26679,11.4,3.04618,15.20619,80.6151,2.6664
+BCAL,California Ban,14.19,0.08532,455600000.0,0.0,United States of America,Financials,Banks,No,-3.61775,-3.61775,0.610998,0.27123,64.5,0.0,660.45455,0.0,2.8689
+RVSB,Riverview Bancorp ,6.09,0.04538,122710000.0,1.36752,United States of America,Financials,Banks,Yes ,24.73348,28.00038,0.267846,0.28261,152.3,0.0,11.11111,66.3005,-0.0943
+SBCF,Seacoast Banking  of Florida,25.8,0.40703,2180000000.0,2.82353,United States of America,Financials,Banks,Yes ,2.98869,5.90345,0.97787,0.3068,18.2,0.0,11.66667,83.6668,1.4775
+SBSI,Southside Bancshares ,29.1,0.11761,878820000.0,4.9827,United States of America,Financials,Banks,Yes ,0.59172,5.27457,0.744899,0.29267,10.0,0.0,-2.68041,57.1068,2.5499
+SSB,SouthState oration,94.67,0.73346,9350000000.0,2.34121,United States of America,Financials,Banks,Yes ,10.8761,13.39296,1.141255,0.32608,13.6,0.0,9.2233,68.3213,1.6248
+SFBI,SFSB ,0.0,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SFIGA,Star Financial Group ,61.84,0.00043,0.0,2.32859,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.075,0.0
+SFNC,Simmons First National ,20.55,0.64572,2570000000.0,4.16871,United States of America,Financials,Banks,Yes ,5.70244,10.23097,0.797933,0.29326,17.0,0.0,12.97872,72.0482,1.635
+SHBI,Shore Bancshares ,13.62,0.16519,453250000.0,3.53201,United States of America,Financials,Banks,No,22.54283,26.84993,1.1042,0.33806,10.3,0.0,19.16667,57.9493,1.2855
+SMBC,Southern Missouri Bancorp ,51.91,0.03041,587760000.0,1.76516,United States of America,Financials,Banks,No,22.17534,24.23359,1.112387,0.31393,11.3,0.0,12.44344,51.5736,2.5868
+SNV,Synovus Financial .,46.76,1.4268,6450000000.0,3.40909,United States of America,Financials,Banks,Yes ,16.64542,20.70486,1.725016,0.36305,15.4,0.0,8.73589,85.5152,-0.0386
+SRCE,1st Source ,60.41,0.08673,1510000000.0,2.40521,United States of America,Financials,Banks,Yes ,16.38802,19.24864,0.809574,0.30492,11.3,0.0,5.37313,72.1251,1.1159
+STBA,S&T Bancorp ,37.33,0.17276,1430000000.0,3.66083,United States of America,Financials,Banks,Yes ,16.4942,20.62745,0.792175,0.35017,10.9,0.0,-9.03226,70.0152,0.1951
+STBI,Sturgis Bancorp ,18.05,0.00325,38970000.0,3.76731,United States of America,Financials,Banks,No,7.76119,11.96573,-0.126351,0.15057,0.0,0.0,0.0,0.0,0.0
+TBBK,Bancorp  (The),54.76,0.48823,2570000000.0,0.0,United States of America,Financials,Banks,Yes ,62.53795,62.53795,1.027848,0.43733,12.8,0.0,35.48718,74.74,-0.7057
+TCBI,Texas Capital Bancshares ,74.71,0.44609,3430000000.0,0.0,United States of America,Financials,Banks,Yes ,24.78604,24.78604,0.939529,0.31438,58.4,0.0,340.07812,99.5732,2.6901
+TCBK,Tri Bancshares,39.74,0.11386,1310000000.0,3.32661,United States of America,Financials,Banks,Yes ,11.52333,15.02252,1.02969,0.32363,11.5,0.0,-3.43831,65.4865,3.2719
+THFF,First Financial ,48.85,0.06207,576530000.0,4.19408,United States of America,Financials,Banks,Yes ,30.43711,36.26904,1.078746,0.32696,12.2,0.0,34.325,75.6652,1.9995
+TMP,Tompkins Financial ,63.35,0.05438,903420000.0,3.96229,United States of America,Financials,Banks,Yes ,27.99591,33.30963,1.062582,0.38306,12.7,0.0,12.05231,65.6862,2.3519
+TOWN,TowneBank,33.9,0.23624,2540000000.0,2.9577,United States of America,Financials,Banks,Yes ,22.76688,26.6537,0.9321,0.26656,15.8,0.0,21.42202,57.7126,3.4892
+TRMK,Trustmark ,34.59,0.30016,2100000000.0,2.7818,United States of America,Financials,Banks,Yes ,25.44529,28.89306,1.110667,0.30637,46.7,0.0,-7.02479,72.5538,1.3253
+TRST,Trust Bank  NY,30.7,0.09182,582010000.0,4.70588,United States of America,Financials,Banks,Yes ,8.97436,13.96287,0.8571,0.29079,11.9,0.0,0.0,73.2018,4.0118
+TSBK,Timberland Bancorp ,30.67,0.01223,240480000.0,3.30797,United States of America,Financials,Banks,No,14.3776,18.25509,0.923655,0.32207,9.9,0.0,0.0,63.8493,-0.2199
+TVNB,Turbotville National Bank/PA,52.0,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TYCB,Taylor Calvin B Bankshares ,47.01,0.00046,128200000.0,3.06318,United States of America,Financials,Banks,No,1.66522,4.68536,0.0,0.0,0.0,0.0,0.0,0.0,-100.0
+TYFG,Tri-unty Financial Group ,44.5,0.0,106530000.0,2.24719,United States of America,Financials,Banks,No,7.17726,9.33285,0.0,0.0,0.0,0.0,0.0,2.5924,0.0
+UBAB,United Bancorporation of Alabama ,53.5,0.00189,180350000.0,2.24299,United States of America,Financials,Banks,No,26.62722,29.29542,0.509823,0.16942,0.0,0.0,0.0,5.8115,-6.3074
+UBCP,United Bancorp ,13.16,0.00759,76420000.0,5.69867,United States of America,Financials,Banks,No,-14.1996,-8.25663,-0.024421,0.29684,10.4,0.0,19.68504,11.7201,20.8882
+UBFO,United Security Bancshares,9.07,0.02515,153410000.0,5.39933,United States of America,Financials,Banks,No,18.06109,25.08061,0.627853,0.20768,10.5,0.0,0.0,32.287,10.9952
+UBOH,United Bancshares /OH,27.17,0.0024,82520000.0,3.23887,United States of America,Financials,Banks,No,43.75661,49.58172,0.211017,0.24625,0.0,0.0,0.0,0.768,0.0
+AUB,Atlantic Union Bankshares ,30.66,1.08265,3950000000.0,4.49735,United States of America,Financials,Banks,Yes ,-13.17829,-10.07152,1.018595,0.33189,13.7,0.0,21.24088,93.6698,24.3219
+UBSI,United Bankshares ,34.71,0.6741,4930000000.0,4.29858,United States of America,Financials,Banks,Yes ,-2.04836,2.10997,0.835242,0.27809,12.6,0.0,3.38182,69.1339,4.1702
+UCB,United mmunity Banks ,27.91,0.70163,3310000000.0,3.4657,United States of America,Financials,Banks,No,9.52946,13.22847,1.157608,0.31835,13.7,0.0,5.95652,94.1899,5.6893
+UMBF,UMB Financial ,101.98,0.61782,7300000000.0,1.59156,United States of America,Financials,Banks,Yes ,18.886,20.77193,1.259165,0.29743,11.3,0.0,4.24917,70.2759,2.104
+UNB,Union Bankshares ,30.12,0.00896,140660000.0,4.64666,United States of America,Financials,Banks,No,1.34075,6.60191,0.599362,0.3993,15.5,0.0,0.0,19.6419,19.1807
+UNIB,University Bancorp ,15.75,0.00111,81430000.0,1.26984,United States of America,Financials,Banks,No,16.66667,18.78788,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNTY,Unity Bancorp ,41.8,0.03755,416400000.0,1.35266,United States of America,Financials,Banks,No,49.45848,51.70776,1.279482,0.43325,10.3,0.0,18.57143,49.7499,5.4694
+FUSB,First US Bancshares ,13.45,0.00417,77650000.0,2.07407,United States of America,Financials,Banks,No,52.71493,55.70389,0.50678,0.28473,10.1,0.0,0.0,17.4634,1.598
+UNTN,United Tennessee Bankshares ,17.0,0.0,12790000.0,3.64438,United States of America,Financials,Banks,No,3.10606,6.79267,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UVSP,Univest Financial ,29.04,0.1041,833230000.0,2.92377,United States of America,Financials,Banks,Yes ,41.17936,45.72497,1.109355,0.32508,11.3,0.0,-2.4031,77.9552,1.8192
+UWHR,Uwharrie Capital ,8.7,0.00126,58390000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,6.7,0.0,0.0,0.0,0.0
+VABK,Virginia National Bankshares ,36.79,0.00579,196050000.0,3.63036,United States of America,Financials,Banks,No,24.56321,29.14171,1.085155,0.39159,11.7,0.0,0.0,0.0,0.5944
+VLY,Valley National Bancorp,9.06,7.6509,4980000000.0,4.94938,United States of America,Financials,Banks,Yes ,12.81726,18.93203,1.104602,0.35521,13.1,0.0,53.3871,0.0,16.7562
+WABC,Westamerica Bancorporation,50.13,0.13266,1330000000.0,3.54054,United States of America,Financials,Banks,Yes ,3.84374,7.50358,0.909274,0.26545,9.6,0.0,-16.05769,76.9545,0.8913
+WASH,Washington Trust Bancorp ,30.06,0.19963,575580000.0,7.50167,United States of America,Financials,Banks,Yes ,13.51454,20.04549,1.070421,0.34269,0.0,0.0,-27.15405,66.6356,8.8389
+WBS,Webster Financial ,51.49,1.08881,8690000000.0,3.15395,United States of America,Financials,Banks,Yes ,2.4021,5.65063,1.360194,0.35506,11.8,0.0,9.47955,88.7141,2.5021
+WNEB,Western New England Bancorp ,9.4,0.05454,194200000.0,2.99145,United States of America,Financials,Banks,Yes ,23.32016,27.68386,0.701252,0.35275,16.8,0.0,7.14286,57.36,0.9976
+WAFD,WaFd ,28.75,0.54,2300000000.0,3.82707,United States of America,Financials,Banks,Yes ,-0.56378,2.72037,0.588235,0.30735,13.2,0.0,-2.68,79.3427,1.2414
+WSBC,WesBanco ,31.05,0.57857,2930000000.0,4.82871,United States of America,Financials,Banks,Yes ,4.96575,9.94061,0.918554,0.30101,13.7,0.0,40.59829,72.8192,6.5049
+WSFS,WSFS Financial ,52.67,0.30006,3050000000.0,1.15097,United States of America,Financials,Banks,Yes ,17.99457,19.34989,1.038042,0.3202,11.9,0.0,1.73121,91.9268,2.137
+WTBA,West Bancorporation ,19.69,0.02765,329760000.0,5.10465,United States of America,Financials,Banks,Yes ,13.30249,19.12945,1.099973,0.34038,13.9,0.0,10.73826,45.8386,1.2008
+WTFC,Wintrust Financial .,114.57,0.44255,7500000000.0,1.77841,United States of America,Financials,Banks,Yes ,9.11031,10.91115,1.222487,0.28767,11.1,0.0,0.49467,94.5056,4.5555
+WVFC,WVS Financial .,12.35,0.0011,21400000.0,3.23887,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-100.0
+ZION,Zions Bancorporation National Association,50.44,1.48323,7300000000.0,3.47615,United States of America,Financials,Banks,Yes ,15.12331,18.98571,1.440614,0.32445,10.2,0.0,6.34343,77.8563,2.9785
+AX,Axos Financial .,65.38,0.41849,3680000000.0,0.0,United States of America,Financials,Banks,Yes ,22.77322,22.77322,1.49547,0.43311,8.8,0.0,-5.84856,82.736,-0.4753
+MCHB,Mechanics Bank (The) (CA),27300.0,1e-05,546000000.0,5.41758,United States of America,Financials,Banks,No,7.05882,8.98176,0.0,0.0,0.0,0.0,0.0,0.7737,2.7972
+PCB,PCB Bancorp,18.56,0.02584,266050000.0,4.32432,United States of America,Financials,Banks,No,16.64565,21.45122,0.852001,0.31679,10.7,0.0,17.01149,38.6659,9.337
+GSBX,Golden State Bancorp,24.9,0.0,52190000.0,0.0,United States of America,Financials,Banks,No,15.81395,15.81395,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BWFG,Bankwell Financial Group ,30.1,0.01466,236420000.0,2.67559,United States of America,Financials,Banks,No,18.60373,22.06769,0.799344,0.27788,24.5,0.0,217.00855,38.1939,6.8719
+LYBC,Lyons Bancorp ,40.0,0.00065,135520000.0,4.0,United States of America,Financials,Banks,No,1.26582,5.4041,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+FRSB,First Resources Bancorp ,14.3,0.0,42990000.0,0.0,United States of America,Financials,Banks,No,8.33251,8.33251,0.0,0.0,0.0,0.0,0.0,0.4493,-12.8941
+BCML,Baym ,25.72,0.02605,284480000.0,2.34742,United States of America,Financials,Banks,No,24.25863,26.80822,1.082886,0.30127,12.2,0.0,9.52381,0.0,3.0868
+EFSC,Enterprise Financial Services oration,54.3,0.20523,1980000000.0,2.05531,United States of America,Financials,Banks,Yes ,36.56545,39.60623,0.695988,0.31597,11.2,0.0,1.65631,78.2416,2.1105
+RWCB,Redwood Capital Bancorp,22.14,0.0,43390000.0,1.44535,United States of America,Financials,Banks,No,7.94734,9.55853,0.0,0.0,0.0,0.0,0.0,9.5301,0.0
+SCZC,West ast mmunity Bancorp,39.24,0.00751,414220000.0,1.9368,United States of America,Financials,Banks,No,40.64516,43.4149,0.236089,0.19358,0.0,0.0,0.0,7.6643,14.784
+NIDB,Northeast Indiana Bancorp ,17.8,0.00118,43250000.0,4.04494,United States of America,Financials,Banks,No,4.70588,9.1497,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BFIN,BankFinancial ,12.815,0.01669,157130000.0,3.17209,United States of America,Financials,Banks,No,20.09524,24.24072,0.535798,0.23941,38.8,0.0,115.15152,54.4523,3.939
+WAL,Western Alliance Bancorporation,77.64,1.07649,8359999999.999999,2.00766,United States of America,Financials,Banks,Yes ,21.21358,23.54225,1.364056,0.36726,11.0,0.64627,22.30126,89.1941,0.1087
+OTTW,Ottawa Bancorp ,14.55,0.00169,35210000.0,3.02406,United States of America,Financials,Banks,No,31.67421,36.01357,0.076305,0.11002,0.0,0.0,0.0,0.0,0.0
+SYBT,Stock Yards Bancorp ,69.12,0.13022,2030000000.0,1.79867,United States of America,Financials,Banks,No,44.43746,47.34953,1.315722,0.34365,17.8,0.0,7.7892,61.1379,3.3982
+OPBK,OP Bancorp,12.1,0.03019,176880000.0,4.04722,United States of America,Financials,Banks,No,18.95687,23.47607,0.839739,0.34626,8.7,0.0,4.60432,0.0,15.0106
+MNSB,MainStreet Bancshares ,16.87,0.01061,129440000.0,2.38806,United States of America,Financials,Banks,No,-6.78909,-4.5522,0.523776,0.30748,0.0,0.0,0.0,0.0,0.5094
+FBIZ,First Business Financial Services ,47.88,0.0311,396620000.0,2.42779,United States of America,Financials,Banks,Yes ,32.42794,35.58815,0.981506,0.34108,9.2,0.0,4.63462,66.8703,4.7955
+MGYR,Magyar Bancorp ,13.85,0.00349,89810000.0,1.7316,United States of America,Financials,Banks,No,24.41652,26.84272,0.241167,0.15323,10.5,0.0,0.0,31.1345,-1.9266
+FFBB,FFB Bancorp,77.95,0.00448,241790000.0,0.0,United States of America,Financials,Banks,No,-6.58896,-6.58896,0.183511,0.2616,7.3,0.0,0.0,0.3009,0.0
+LSBK,Lake Shore Bancorp ,15.75,0.0046,90810000.0,4.54545,United States of America,Financials,Banks,No,33.78378,41.12401,0.277382,0.27387,17.9,0.0,0.0,8.9105,-4.6905
+TRVR,Two Rivers Financial Group ,36.24,0.0,76360000.0,1.93157,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HOMB,Home Bancshares ,28.38,1.03764,5600000000.0,2.764,United States of America,Financials,Banks,Yes ,17.09544,20.3236,0.7242,0.26694,14.1,0.0,8.10945,70.2294,2.8128
+NECB,Northeast mmunity Bancorp ,23.83,0.06261,332060000.0,3.37838,United States of America,Financials,Banks,No,51.69763,56.38501,1.165182,0.36302,6.7,0.0,-11.17318,47.7311,7.524
+GBNY,Generations Bancorp NY ,16.5,0.00271,37600000.0,0.0,United States of America,Financials,Banks,No,58.883,58.883,0.238021,0.0,0.0,0.0,0.0,9.2272,-68.3681
+SSBI,Summit State Bank,9.12,0.01839,62210000.0,1.74292,United States of America,Financials,Banks,No,-13.55932,-11.96967,0.227626,0.51019,0.0,0.0,0.0,36.0492,28.4567
+LFGP,Ledyard Financial Group ,15.25,0.00459,52200000.0,5.41935,United States of America,Financials,Banks,No,1.97368,8.09516,-0.071878,0.15575,15.4,0.0,0.0,11.0836,-7.3503
+ARBV,American Riviera Bancorp,19.16,0.01753,111430000.0,0.0,United States of America,Financials,Banks,No,19.82489,19.82489,0.067024,0.12331,0.0,0.0,0.0,7.7276,-11.3777
+FRST,Primis Financial ,9.59,0.087,237590000.0,4.16233,United States of America,Financials,Banks,No,-18.97133,-16.0967,1.040946,0.33849,0.0,0.0,0.0,77.4114,1.4352
+WSFGQ,WSB Financial Group ,0.0,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PBNK,Pinnacle Bank (CA),19.25,0.0,107100000.0,0.0,United States of America,Financials,Banks,No,22.58065,22.58065,0.158429,0.12911,0.0,0.0,0.0,5.1367,0.0
+CARE,Carter Bankshares ,16.14,0.06998,371250000.0,0.0,United States of America,Financials,Banks,No,29.74939,29.74939,1.202188,0.33473,15.2,0.0,88.39623,47.4423,5.5005
+ESSA,ESSA Bancorp ,18.98,0.02177,191220000.0,3.1864,United States of America,Financials,Banks,No,5.72712,9.1593,0.826651,0.30257,10.9,0.0,0.0,46.3373,0.9697
+TFSL,TFS Financial ,12.52,0.30043,3500000000.0,9.07631,United States of America,Financials,Banks,Yes ,0.64673,9.66318,0.602969,0.23788,44.7,0.0,5.0,9.8805,2.2887
+QNTO,Quaint Oak Bancorp ,10.8,0.00154,28370000.0,4.81481,United States of America,Financials,Banks,No,-2.7027,2.01124,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LRBI,Lake Ridge Bancorp ,125.0,0.0,0.0,1.44,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FFNW,First Financial Northwest ,22.59,0.03452,208830000.0,2.29783,United States of America,Financials,Banks,Yes ,9.37651,10.05652,0.271582,0.19892,188.3,0.0,131.66667,49.9305,5.3428
+NFBK,Northfield Bancorp ,11.01,0.17988,471690000.0,4.7532,United States of America,Financials,Banks,Yes ,12.8999,18.36848,1.207818,0.40879,15.3,0.0,31.71875,56.4503,0.6283
+CMUV,CMUV Bancorp,21.5,0.0,38360000.0,2.23256,United States of America,Financials,Banks,No,25.87822,29.01293,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SFBC,Sound Financial Bancorp ,51.57,0.00219,129970000.0,1.50049,United States of America,Financials,Banks,No,24.75369,26.82977,-0.164202,0.28169,28.7,0.0,0.0,35.7078,0.6501
+WMPN,William Penn Bancorp,11.07,0.01631,99910000.0,1.10599,United States of America,Financials,Banks,No,-12.5,-11.63876,0.460388,0.18701,0.0,0.0,0.0,28.6033,57.3654
+BLHK,BlueHarbor Bank,22.75,0.00164,66769999.99999999,0.0,United States of America,Financials,Banks,No,13.75,15.99317,0.0,0.0,0.0,0.0,0.0,3.5862,0.0
+HBCP,Home Bancorp ,45.09,0.02238,366190000.0,2.38832,United States of America,Financials,Banks,No,21.91965,24.80565,1.191847,0.32949,9.9,0.0,4.3956,45.9966,2.3793
+FSFG,First Savings Financial Group ,26.03,0.01296,177850000.0,2.48834,United States of America,Financials,Banks,No,54.28914,58.52987,0.271655,0.23972,9.5,0.0,23.73737,28.6066,2.2209
+BKQNY,Bank of Queensland Ltd,8.305,0.0,2730000000.0,5.37654,Australia,Financials,Banks,No,3.8125,9.29726,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GNRV,Grand River mmunications ,3.95,0.0,27800000.0,0.0,United States of America,Financials,Banks,No,38.59649,38.59649,0.0,0.0,0.0,0.0,0.0,9.5897,0.0
+TBNK,Territorial Bancorp ,8.33,0.01451,73590000.0,0.48019,United States of America,Financials,Banks,Yes ,5.57668,6.04372,0.760095,0.35455,0.0,0.0,0.0,45.5471,5.9164
+CULL,Cullman Bancorp ,10.35,0.00416,70410000.0,1.15942,United States of America,Financials,Banks,No,1.76991,2.99729,0.133721,0.12588,0.0,0.0,0.0,0.0,-100.0
+FIBK,First Interstate BancSystem ,28.72,0.64155,2970000000.0,6.62438,United States of America,Financials,Banks,Yes ,7.99087,14.92947,1.092612,0.27711,13.1,4.83541,12.73973,80.0845,2.9655
+EMYB,Embassy Bancorp ,15.5,0.00833,119610000.0,2.68371,United States of America,Financials,Banks,No,15.07353,18.69925,0.0,0.0,11.3,0.0,0.0,2.9036,0.1129
+CTUY,Century Next Financial ,41.48,0.0,76070000.0,1.01254,United States of America,Financials,Banks,No,36.67216,38.46598,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+OFED,Oconee Federal Financial ,12.44,0.00142,85460000.0,3.2,United States of America,Financials,Banks,No,-9.09091,-6.27136,0.0,0.0,9.6,0.0,0.0,0.0,0.0
+BKU,BankUnited ,34.5,0.7305,2540000000.0,3.64384,United States of America,Financials,Banks,Yes ,24.01603,28.53808,1.047505,0.36967,11.2,0.0,5.45455,99.9499,-0.1135
+JMSB,John Marshall Bancorp ,16.63,0.01753,236970000.0,1.50602,United States of America,Financials,Banks,No,-4.15704,-2.79254,0.788018,0.35067,13.9,0.0,0.0,0.0,11.2836
+MNMB,Merchants & Marine Bancorp ,42.25,0.0005,56190000.0,2.84024,United States of America,Financials,Banks,No,-9.13978,-6.05496,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+IROQ,IF Bancorp ,25.0,0.00262,80680000.0,1.66182,United States of America,Financials,Banks,No,45.61404,48.28463,0.312588,0.24898,26.9,0.0,0.0,29.16,7.1742
+PBAM,Private Bancorp of America ,54.75,0.00467,315740000.0,0.0,United States of America,Financials,Banks,No,60.32211,60.32211,0.108384,0.25325,8.9,0.0,7.39837,8.2549,-4.7536
+CUBI,Customers Bancorp ,51.64,0.30399,1600000000.0,0.0,United States of America,Financials,Banks,Yes ,-1.96911,-1.96911,1.549572,0.47868,10.1,0.0,6.14187,87.982,-2.4566
+HMST,HomeStreet ,12.56,0.18854,227240000.0,0.0,United States of America,Financials,Banks,Yes ,-17.79603,-17.79603,1.578471,0.61078,0.0,0.0,0.0,80.9522,3.8005
+FSBW,FS Bancorp ,37.62,0.01487,294990000.0,2.94737,United States of America,Financials,Banks,No,13.77246,16.89537,1.026848,0.33854,8.6,0.0,-4.58716,64.0317,1.8566
+HTB,HomeTrust Bancshares ,34.31,0.04014,600470000.0,1.40433,United States of America,Financials,Banks,No,30.55768,32.36293,1.375173,0.31965,10.7,0.0,-8.0,56.9585,-0.4415
+UNIF,U & I Financial ,3.95,0.0,21360000.0,0.0,United States of America,Financials,Banks,No,-43.64162,-43.64162,0.0,0.0,0.0,0.0,0.0,0.0621,100.0
+NBHC,National Bank Holdings ,38.84,0.21759,1460000000.0,3.01769,United States of America,Financials,Banks,Yes ,8.5569,11.52618,0.960475,0.26603,12.6,0.0,-0.12422,97.4113,-1.5626
+WBBW,Westbury Bancorp ,33.0,0.0,184010000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NIC,Nicolet Bankshares ,110.16,0.06066,1660000000.0,1.02461,United States of America,Financials,Banks,No,30.39485,31.86835,0.878085,0.3079,13.7,0.0,7.49681,47.2245,4.0554
+FVCB,FVCBankcorp ,10.65,0.01906,193920000.0,0.0,United States of America,Financials,Banks,No,-12.19309,-12.19309,1.36937,0.45487,13.0,0.0,28.04878,0.0,4.4839
+CSHX,Cashmere Valley Bank,63.6,0.00148,247080000.0,2.75591,United States of America,Financials,Banks,No,26.36816,30.07622,0.044749,0.16918,8.6,0.0,0.0,2.3498,-6.7088
+FFMR,First Farmers Financial ,66.0,0.0,471280000.0,2.92537,United States of America,Financials,Banks,No,-1.87463,1.00591,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FRBA,First Bank,14.86,0.05028,371420000.0,1.62712,United States of America,Financials,Banks,No,12.08207,13.97657,0.637371,0.27801,8.9,0.0,-1.1976,71.6182,-0.1924
+SFBS,ServisFirst Bancshares ,82.21,0.2293,4420000000.0,1.65575,United States of America,Financials,Banks,Yes ,23.38771,25.43848,1.176857,0.35745,19.8,0.0,24.75962,73.2226,2.3975
+ISTR,Investar Holding ,17.41,0.03106,171070000.0,2.41241,United States of America,Financials,Banks,No,6.48318,8.90076,1.130855,0.32411,8.5,0.0,-4.39153,63.6229,2.8469
+CFG,Citizens Financial Group ,41.66,4.14043,17740000000.0,4.13895,United States of America,Financials,Banks,Yes ,13.88889,18.55481,1.026284,0.29001,13.7,0.0,27.06271,94.4733,-0.466
+VBTX,Veritex Holdings ,24.8,0.37685,1340000000.0,3.24675,United States of America,Financials,Banks,Yes ,23.32332,27.4433,1.161428,0.30635,12.7,0.0,5.88517,90.2856,2.658
+FFWM,First Foundation ,5.36,0.53033,429950000.0,0.76628,United States of America,Financials,Banks,No,-27.60055,-27.46844,1.141048,0.6281,0.0,0.0,0.0,83.4002,15.6799
+TFIN,Triumph Financial ,58.61,0.15542,1350000000.0,0.0,United States of America,Financials,Banks,No,-25.72646,-25.72646,1.547619,0.43684,108.5,0.0,94.44444,92.3789,0.801
+FNWB,First Northwest Bancorp,10.42,0.02014,94980000.0,2.75862,United States of America,Financials,Banks,No,-35.67807,-33.95861,1.143402,0.40982,0.0,0.0,0.0,46.9343,-8.7845
+CBWA,mmencement Bancorp ,13.0,0.0,51030000.0,0.0,United States of America,Financials,Banks,No,30.0,60.44915,0.0,0.0,0.0,0.0,0.0,5.3146,-20.8285
+PMHG,Prime Meridian Holding ,28.75,0.00386,94530000.0,3.47826,United States of America,Financials,Banks,No,27.21239,31.55707,0.014181,0.0,0.0,0.0,0.0,10.5112,-3.5074
+LOB,Live Oak Bancshares ,27.28,0.24632,1220000000.0,0.44709,United States of America,Financials,Banks,Yes ,-33.82643,-33.61761,1.151205,0.48638,16.1,0.0,42.72189,67.1576,1.997
+IBTN,Ins ,24.8,0.0,72340000.0,1.77419,United States of America,Financials,Banks,No,9.01099,10.92998,0.0,0.0,0.0,0.0,0.0,0.58,0.0
+PVBC,Provident Bancorp ,11.53,0.0274,204400000.0,0.0,United States of America,Financials,Banks,No,23.15113,23.15113,1.385556,0.35794,26.8,0.0,63.48837,45.2591,-4.0773
+BAFN,BayFirst Financial ,16.61,0.00761,68470000.0,1.93822,United States of America,Financials,Banks,No,25.17058,28.11298,0.334801,0.27961,6.3,0.0,0.0,0.0,-3.458
+SABK,South Atlantic Bancshares ,15.49,0.00565,117290000.0,0.64558,United States of America,Financials,Banks,No,42.37132,43.31107,-0.364097,0.30753,0.0,0.0,40.45802,4.8436,-3.4381
+EQBK,Equity Bancshares ,39.55,0.07136,686530000.0,1.53022,United States of America,Financials,Banks,No,16.55767,18.26177,1.158819,0.30386,9.9,0.0,-8.4,72.3955,19.2227
+HONE,HarborOne Bancorp ,10.58,0.19544,456290000.0,3.43184,United States of America,Financials,Banks,No,1.25483,4.17596,1.189045,0.37272,16.0,0.0,25.45455,58.1814,0.9577
+MCBS,Metrocity Bankshares ,27.72,0.03779,701630000.0,3.33092,United States of America,Financials,Banks,No,15.27546,18.71441,1.220457,0.33393,11.0,0.0,5.03968,0.0,3.139
+BPRN,Princeton Bancorp ,30.78,0.00888,212840000.0,3.89864,United States of America,Financials,Banks,No,1.4168,5.08782,1.042602,0.277,19.9,0.0,21.80147,44.5866,2.9709
+MSBI,Midland States Bancorp ,17.26,0.10155,369700000.0,7.2093,United States of America,Financials,Banks,No,-30.56116,-26.67502,0.613716,0.33055,0.0,0.0,0.0,62.8638,2.334
+SLBK,Skyline Bankshares ,12.59,0.0054,71160000.0,3.97141,United States of America,Financials,Banks,No,14.97717,19.63249,0.048607,0.13873,0.0,0.0,0.0,0.0,0.0
+FHB,First Hawaiian ,24.68,0.80488,3060000000.0,4.2922,United States of America,Financials,Banks,Yes ,12.64528,17.43915,0.887247,0.27705,13.8,0.0,8.82682,99.2485,0.4555
+FBK,FB Financial ,46.97,0.15376,2150000000.0,1.64716,United States of America,Financials,Banks,Yes ,25.21031,27.14791,1.14753,0.31067,18.9,0.0,6.61765,66.0815,1.8126
+MCBI,Mountain mmerce Bancorp ,20.0,0.0,127420000.0,1.0,United States of America,Financials,Banks,No,9.58904,10.71437,0.0,0.0,0.0,0.0,0.0,10.8862,4.7994
+VBNK,VersaBank,10.25,0.11595,332670000.0,0.68341,Canada,Financials,Banks,No,-1.44509,-0.83774,1.362487,0.38269,7.9,0.0,10.40268,33.3551,103.8757
+ESQ,Esquire Financial Holdings ,74.25,0.06982,636960000.0,0.92654,United States of America,Financials,Banks,No,58.28619,59.85658,0.79397,0.31519,14.4,0.0,7.45136,59.5118,5.2877
+BY,Byline Bancorp ,26.83,0.12715,1180000000.0,1.51515,United States of America,Financials,Banks,No,25.0,26.77838,1.196503,0.309,9.8,0.0,-5.92727,44.838,4.1673
+FFBW,FFBW ,14.0,0.01074,68750000.0,0.0,United States of America,Financials,Banks,No,8.52713,8.52713,0.204777,0.13743,0.0,0.0,0.0,0.0,0.0
+RBB,RBB Bancorp,16.55,0.03973,292550000.0,3.87879,United States of America,Financials,Banks,No,-5.49828,-2.54147,0.894826,0.32648,11.3,0.0,10.13605,47.9021,4.1333
+COSO,astalSouth Bancshares ,21.25,0.00171,172080000.0,0.0,United States of America,Financials,Banks,No,26.86567,26.86567,0.0,0.0,0.0,0.0,0.0,3.8069,-6.4442
+PPBB,Peoples Bancorp,200.0,0.0,0.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PDLB,Ponce Financial Group ,12.84,0.04476,304610000.0,0.0,United States of America,Financials,Banks,No,47.7907,47.7907,1.010314,0.27827,27.9,0.0,-15.21739,47.9999,1.9606
+MCB,Metropolitan Bank Holding ,56.47,0.09113,621190000.0,0.0,United States of America,Financials,Banks,No,51.90777,51.90777,1.335683,0.4699,9.5,0.0,10.79258,81.7185,2.6242
+STEL,Stellar Bancorp ,27.67,0.19134,1460000000.0,2.03341,United States of America,Financials,Banks,No,15.27836,17.65714,0.841851,0.2897,12.9,0.0,-16.13636,57.5835,4.2928
+MRBK,Meridian ,14.3,0.04819,161380000.0,3.4965,United States of America,Financials,Banks,No,44.44444,50.59805,1.080218,0.35381,9.9,0.0,44.53782,59.1956,7.7857
+CLBK,lumbia Financial ,14.75,0.09802,1540000000.0,0.0,United States of America,Financials,Banks,Yes ,-12.83264,-12.83264,0.712574,0.31302,0.0,0.0,0.0,12.7204,2.5207
+SSBP,SSB Bancorp ,8.75,0.0,19170000.0,0.0,United States of America,Financials,Banks,No,-10.71429,-10.71429,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BWB,Bridgewater Bancshares ,13.96,0.0615,384410000.0,0.0,United States of America,Financials,Banks,No,19.57082,19.57082,0.852088,0.30636,13.6,0.0,28.43137,54.0303,10.6204
+BFST,Business First Bancshares ,24.73,0.10135,721070000.0,2.29508,United States of America,Financials,Banks,No,12.3906,15.00595,1.210603,0.3605,10.9,0.0,7.83133,46.3033,9.1815
+OBK,Origin Bancorp ,34.41,0.14342,1070000000.0,1.74267,United States of America,Financials,Banks,No,14.04439,16.0497,1.326957,0.33284,14.0,0.0,24.32653,59.2555,4.4236
+AMAL,Amalgamated Financial ,28.97,0.21908,880720000.0,1.95122,United States of America,Financials,Banks,No,23.81363,25.86643,1.364849,0.36525,8.4,0.0,1.98276,59.5124,5.2262
+MYFW,First Western Financial ,19.93,0.02058,188260000.0,0.0,United States of America,Financials,Banks,No,35.47486,35.47486,1.259169,0.37029,22.9,0.0,61.72414,60.2524,5.6226
+CCB,astal Financial ,89.91,0.12653,1350000000.0,0.0,United States of America,Financials,Banks,No,135.62074,135.62074,0.97202,0.35767,27.6,0.0,47.26154,74.1619,21.1088
+CNBN,CNB Bank Shares ,17.7,0.00297,95540000.0,3.38983,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AMTB,Amerant Bancorp ,20.89,0.20933,865650000.0,1.74334,United States of America,Financials,Banks,No,-9.35031,-7.88602,1.574261,0.3877,0.0,0.0,41.56028,64.5214,8.9141
+BSVN,Bank7 ,39.38,0.02488,370270000.0,2.4496,United States of America,Financials,Banks,No,41.73599,45.35664,0.940141,0.34927,8.1,0.0,-15.55785,33.3032,48.102
+CBNK,Capital Bancorp ,28.19,0.05418,470140000.0,1.41693,United States of America,Financials,Banks,No,34.49262,36.53761,0.856048,0.2957,13.4,0.0,18.57143,35.8285,12.7373
+SICPQ,Silvergate Capital oration,0.35,0.0,14560000.0,0.0,United States of America,Financials,Banks,No,39.39394,39.39394,0.726337,1.76632,0.0,0.0,0.0,0.0004,0.0
+BCOW,1895 Bancorp of Wisconsin ,10.23,0.02141,60710000.0,0.0,United States of America,Financials,Banks,No,50.07364,50.07364,0.252501,0.21413,0.0,0.0,0.0,31.7651,1.0765
+RBKB,Rhinebeck Bancorp ,10.04,0.00654,115390000.0,0.0,United States of America,Financials,Banks,No,26.36695,26.36695,0.273386,0.21635,0.0,0.0,0.0,15.7821,5.0899
+ALPIB,Alpine Banks of lorado,30.99,0.00111,255880000.0,2.71055,United States of America,Financials,Banks,No,13.51648,16.69238,0.105145,0.15456,0.0,0.0,0.0,5.7605,-0.4214
+RRBI,Red River Bancshares ,52.33,0.0111,352520000.0,0.9229,United States of America,Financials,Banks,No,7.48088,8.29304,1.013107,0.28072,10.6,0.0,8.38384,24.429,3.199
+SPFI,South Plains Financial ,33.08,0.03349,546840000.0,1.80886,United States of America,Financials,Banks,No,29.41865,31.78572,1.177284,0.3312,11.3,0.0,-0.68493,38.2588,4.251
+CNBB,CNB mmunity Bancorp ,39.07,0.00104,81190000.0,3.07141,United States of America,Financials,Banks,No,13.1398,16.32801,0.0,0.0,0.0,0.0,0.0,3.0414,0.0
+RMBI,Richmond Mutual Bancorporation ,12.72,0.02217,133820000.0,4.70588,United States of America,Financials,Banks,No,9.91379,14.87576,0.208581,0.24045,13.8,0.0,0.0,22.2755,8.3748
+FSEA,First Seacoast Bancorp ,11.55,0.00964,54640000.0,0.0,United States of America,Financials,Banks,No,35.88235,35.88235,0.0544,0.12771,0.0,0.0,0.0,25.0546,0.2622
+PBFS,Pioneer Bancorp ,11.49,0.02344,300260000.0,0.0,United States of America,Financials,Banks,No,22.19873,22.19873,0.467339,0.20477,15.7,0.0,0.0,24.2191,-2.064
+BOID,Bank of Idaho Holding ,46.62,0.00561,206570000.0,0.0,United States of America,Financials,Banks,No,63.57895,63.57895,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HBT,HBT Financial ,22.42,0.0356,704400000.0,3.76344,United States of America,Financials,Banks,No,19.16711,23.55395,1.141215,0.31757,9.9,0.0,2.61062,23.4386,1.2291
+DSBX,Dogwood State Bank RALEIGH NC,14.75,0.0,217710000.0,0.0,United States of America,Financials,Banks,No,-9.70104,-9.70104,0.0,0.0,0.0,0.0,0.0,0.8437,27.1657
+MBLU,Morris St Bancshares ,20.85,0.00225,220860000.0,2.30216,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0472,0.0
+LUMB,Lumbee Guaranty Bank,12.05,0.0,39020000.0,2.82158,United States of America,Financials,Banks,No,9.54545,12.34385,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PBNC,PB Financial ,45.5,0.00156,113520000.0,5.01099,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BSBK,Bogota Financial ,7.61,0.00564,100290000.0,0.0,United States of America,Financials,Banks,No,9.71429,9.71429,0.013893,0.24987,0.0,0.0,0.0,7.8615,0.8828
+LNKB,LINKBANCORP ,7.17,0.05079,252290000.0,4.44444,United States of America,Financials,Banks,No,-2.17391,2.12522,0.705893,0.28792,10.1,0.0,19.01408,0.0,6.0857
+EBC,Eastern Bankshares ,16.5,1.0579,3510000000.0,2.92326,United States of America,Financials,Banks,Yes ,22.44594,25.87059,1.098441,0.32387,25.0,0.0,40.37736,68.9653,3.5542
+AFBI,Affinity Bancshares ,18.05,0.01814,113880000.0,0.0,United States of America,Financials,Banks,No,8.19175,16.351,0.226545,0.32707,21.7,0.0,0.0,26.5967,17.567
+CBTN,Citizens Bancorp Investment ,28.0,0.0017,165230000.0,2.71429,United States of America,Financials,Banks,No,-21.12676,-18.93863,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FSBC,Five Star Bancorp,27.87,0.05265,594230000.0,2.8715,United States of America,Financials,Banks,No,24.48615,28.21267,0.879374,0.30095,12.3,0.0,15.9292,54.775,-0.3443
+BLFY,Blue Foundry Bancorp,9.23,0.04759,202410000.0,0.0,United States of America,Financials,Banks,No,-1.39935,-1.39935,0.986352,0.32454,0.0,0.0,5.45455,51.268,-0.3993
+PBBK,PB Bankshares ,16.12,0.0029,41980000.0,0.0,United States of America,Financials,Banks,No,27.61831,27.61831,0.151444,0.19939,21.2,0.0,0.0,11.5119,39.6986
+TCBS,Texas mmunity Bancshares ,16.15,0.00408,48990000.0,1.0,United States of America,Financials,Banks,No,10.04127,11.21109,0.153564,0.11924,0.0,0.0,0.0,8.863,4.9009
+TCBC,TC Bancshares ,15.65,0.00848,64769999.99999999,0.64516,United States of America,Financials,Banks,No,11.99422,12.73731,0.371822,0.22147,0.0,0.0,0.0,2.174,-2.149
+USCB,USCB Financial Holdings ,18.46,0.02809,373590000.0,2.14707,United States of America,Financials,Banks,No,68.29268,70.87113,1.502298,0.44173,14.9,0.0,26.6129,62.8726,2.9168
+SSBK,Southern States Bancshares ,36.32,0.02111,353920000.0,1.00925,United States of America,Financials,Banks,No,39.06433,40.73923,0.59752,0.30138,9.9,0.0,4.05759,54.221,5.5569
+FINW,Finwise Bancorp,17.04,0.02304,226520000.0,0.0,United States of America,Financials,Banks,No,70.88734,70.88734,0.432099,0.34016,18.3,0.0,20.75269,26.1107,4.7132
+CLST,Catalyst Bancorp ,11.65,0.00786,49010000.0,0.0,United States of America,Financials,Banks,No,-1.01954,-1.01954,0.175139,0.11069,0.0,0.0,0.0,26.3797,23.5324
+TCBX,Third ast Bancshares ,32.63,0.07456,451450000.0,0.0,United States of America,Financials,Banks,No,70.43207,70.43207,1.084756,0.36764,11.7,0.0,11.51079,51.8742,13.8614
+CFSB,CFSB Bancorp ,7.69,0.00596,51930000.0,0.0,United States of America,Financials,Banks,No,10.13889,10.13889,-0.182567,0.18918,0.0,0.0,0.0,1.4227,-14.6184
+NSTS,NSTS Bancorp ,11.12,0.00465,59930000.0,0.0,United States of America,Financials,Banks,No,19.45607,19.45607,0.103864,0.23545,0.0,0.0,0.0,21.5119,9.2335
+HNVR,Hanover Bancorp ,22.32,0.01944,156050000.0,1.84587,United States of America,Financials,Banks,No,47.41497,50.51626,0.588544,0.32711,13.4,0.0,40.06024,21.1678,35.3417
+ECBK,ECB Bancorp ,15.42,0.00805,136810000.0,0.0,United States of America,Financials,Banks,No,16.64093,16.64093,0.418825,0.23968,32.1,0.0,0.0,23.4708,0.0859
+FSUN,FirstSun Capital Bancorp,36.49,0.08098,998590000.0,0.0,United States of America,Financials,Banks,No,1.35211,1.35211,0.528652,0.24479,13.6,0.0,13.00319,0.0,23.2704
+SRBK,SR Bancorp ,12.09,0.02295,110220000.0,1.67645,United States of America,Financials,Banks,No,25.57895,26.09573,0.339213,0.14724,241.8,0.0,0.0,24.1751,9.353
+CPBI,Central Plains Bancshares ,14.81,0.0055,63290000.0,0.0,United States of America,Financials,Banks,No,46.27451,46.27451,0.133652,0.1753,14.8,0.0,0.0,24.0654,27.3708
+PFSB,PFS Bancorp ,10.35,0.0,17180000.0,0.0,United States of America,Financials,Banks,No,18.15068,18.15068,0.221283,0.13592,0.0,0.0,0.0,0.0,0.0
+NBBK,NB Bancorp ,17.94,0.224,751920000.0,0.0,United States of America,Financials,Banks,No,32.13235,32.13235,0.977973,0.28183,16.8,0.0,29.90654,43.2564,-3.7459
+FDSB,Fifth District Bancorp ,12.24,0.01385,67970000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.9126,11.7661
+CBNA,Chain Bridge Bancorp ,23.58,0.02197,155650000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,7.2,0.0,-41.48681,45.1694,100.0
+FBLA,FB Bancorp ,11.24,0.11871,222980000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.2621,100.0
+NPB,Northpointe Bancshares ,14.49,0.0,497770000.0,0.0,United States of America,Financials,Banks,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
